@@ -1,0 +1,22 @@
+{
+  "name": "assignment_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovvivekkrishna/Web322_Assignments.git"
+  },
+  "author": "Vivek Krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovvivekkrishna/Web322_Assignments/issues"
+  },
+  "homepage": "https://github.com/ovvivekkrishna/Web322_Assignments#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
